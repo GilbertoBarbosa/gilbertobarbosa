@@ -8,7 +8,7 @@ My name is Gilberto Barbosa
 - I’m currently learning machine learning 
 - I’m looking to collaborate on machine learning projects
 
-
+<hr>
 ### Programs languages
 
 <div>
@@ -21,7 +21,7 @@ My name is Gilberto Barbosa
           
 </div>
           
-          
+<hr>          
 ### Tools and libraries
 
 <div>            
@@ -35,7 +35,7 @@ My name is Gilberto Barbosa
           
 </div>
 
-
+<hr>
 ### Data bases
 
 <div>          
@@ -45,10 +45,16 @@ My name is Gilberto Barbosa
             <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />       
 </div>  
 
+<hr>
 ### Frameworks
 
 <div>          
             <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-            <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  
+            <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />  
+</div>
+<hr>
+<div>
+<a href="https://github.com/GilbertoBarbosa">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoBarbosa&layout=compact&langs_count=7&theme=gruvbox"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilbertoBarbosa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>

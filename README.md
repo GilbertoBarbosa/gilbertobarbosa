@@ -49,12 +49,12 @@ My name is Gilberto Barbosa
 ### Frameworks
 
 <div>          
-            <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-            <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />  
+            <img height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+            <img height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />  
 </div>
 <hr>
 <div>
 <a href="https://github.com/GilbertoBarbosa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoBarbosa&layout=compact&langs_count=7&theme=gruvbox"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoBarbosa&layout=compact&langs_count=8&theme=gruvbox"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilbertoBarbosa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
